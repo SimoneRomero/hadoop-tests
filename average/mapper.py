@@ -15,8 +15,7 @@ from datetime import datetime
 
 for line in sys.stdin:
     data = line.strip().split("\t")
-    print len(data)
-    print "tamanho"
+   
 
     day  = data[0]
     value = data[4]
