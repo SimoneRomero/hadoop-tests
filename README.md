@@ -11,18 +11,18 @@ Now it's time for you to have a go at this. For starters you will have to work w
 
 The three questions that you have to answer about this data set are:
 
-	1.Find the sales by product category across all of our stores. 
-		* sales-per-category folder.
-		* The result file has the format: "category" "total-sales"
-	2. Find the monetary value for the highest individual sale for each separate store. 
-		* highest-value folder.
-		* The result file has the format: "store" "total-sales"
-	3. Find the total sales value across all the stores, and the total number of sales. Assume there is only one reducer.
-		* total-sales folder
-		* The result file has the format: "number-sales" "total-sales"
-	4. Find the mean (average) of sales for each weekday. 
-		* average-sales folder
-		* The result file has the format: "weekday" "total-sales" "number-sales" "average"
+1. Find the sales by product category across all of our stores. 
+	* sales-per-category folder.
+	* The result file has the format: "category" "total-sales"
+2. Find the monetary value for the highest individual sale for each separate store. 
+	* highest-value folder.
+	* The result file has the format: "store" "total-sales"
+3. Find the total sales value across all the stores, and the total number of sales. Assume there is only one reducer.
+	* total-sales folder
+	* The result file has the format: "number-sales" "total-sales"
+4. Find the mean (average) of sales for each weekday. 
+	* average-sales folder
+	* The result file has the format: "weekday" "total-sales" "number-sales" "average"
 
 
 Format of each line from "purchases.txt" is:
